@@ -1,0 +1,4 @@
+# username,group,shell,home_directory
+alice,admin,/bin/bash,/home/alice
+bob,editor,/bin/zsh,/home/bob
+carol,viewer,/bin/sh,/home/carol
